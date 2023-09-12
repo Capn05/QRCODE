@@ -3,7 +3,7 @@
 **QR Code Generator and Error Correction Implementation**
 
 *Description:*
-As a Computer Science student at Rice University, I had the opportunity to work on a significant project involving QR code generation and Reed-Solomon error correction. This project demonstrates my proficiency in algorithm design and implementation, as well as my ability to work with complex data structures and finite field arithmetic.
+ I had the opportunity to work on a significant project involving QR code generation and Reed-Solomon error correction. This project demonstrates my proficiency in algorithm design and implementation, as well as my ability to work with complex data structures and finite field arithmetic.
 
 **Key Contributions and Responsibilities:**
 
